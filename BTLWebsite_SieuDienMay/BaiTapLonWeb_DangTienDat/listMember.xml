@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfMember xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Member>
+    <NickName1>dat</NickName1>
+    <Id>3</Id>
+    <Pass>dat</Pass>
+  </Member>
+  <Member>
+    <NickName1>admin</NickName1>
+    <Id>1</Id>
+    <Pass>admin</Pass>
+  </Member>
+</ArrayOfMember>

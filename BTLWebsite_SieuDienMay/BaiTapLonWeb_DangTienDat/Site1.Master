@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="BaiTapLonWeb_VuHuyHoang.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/CssMaster.css">
+    <link rel="stylesheet" href="fonts/fontawesome-free-6.4.0-web/css/all.min.css">
+    <link href="Css/responsive.css" rel="stylesheet" />
+    <title>Tech</title>
+    <style type="text/css">
+        .auto-style271 {}
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+        <%--phần header--%>
+
+     <div class="header">
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <i class="fas fa-bars"></i>
+            </label>
+            <div class="logo">
+                <a href="TrangChu.aspx">TECH</a>
+            </div>
+            <ul>
+                <li><a href="TrangChu.aspx"><i class="fa-solid fa-house-user"></i>Trang chủ</a></li>
+                <li><a href="SanPham.aspx">Sản phẩm</a></li>
+                <li><a href="GioiThieu.aspx">Giới thiệu</a></li>
+                <li><a href="GioHang.aspx"><i class="fa-sharp fa-solid fa-heart"></i>Đã thích</a></li>
+                <li class="dropdown" runat="server" id="account">
+
+                </li>
+            </ul>
+        </nav>
+     </div>
+    <form id="form1" runat="server">
+     <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+     </div>
+    </form>
+        <%--phần footer--%>
+        <footer>
+        <div class="container_footer">
+            <div class="group">
+                <h4>Công ty cổ phần Tech</h4>
+                <p>Số ĐKKD: 0107574310, <br>Ngày cấp: 23/09/2016<br>Nơi cấp: Sở Kế hoạch và đầu tư Hà Nội<br>
+                Trụ sở chính: Ngõ 115, Phố Định Công, <br>Quận Hoàng Mai, Hà Nội, Việt Nam</p>
+            </div>
+            <div class="group">
+                <h4>Thành viên nhóm</h4>
+                <p><i class="fa-sharp fa-solid fa-user"></i>Đặng Tiến Đạt<br> <i class="fa-sharp fa-solid fa-user"></i>Trương Quang Chiến<br> <i class="fa-sharp fa-solid fa-user"></i>Nguyễn Đình Dũng</p>
+                
+            </div>
+            <div class="group">
+                <h4>Điều khoản dịch vụ</h4>
+                <p>Chính sách riêng tư<br>Chính sách bảo mật<br> Dịch vụ theo nhu cầu<br> </p>
+            </div>
+            <div class="group">
+                <h4>Liên hệ với chúng tôi</h4>
+                <p><i class="fa-solid fa-phone"></i>Số ĐT: 0373700584, <br> <i class="fa-sharp fa-solid fa-envelope"></i>Gmail:techwork@gmail.com<br><i class="fa-brands fa-facebook"></i>Facebook<br>
+                    <i class="fa-brands fa-square-instagram"></i> Instagram</p>
+            </div>
+        </div>
+        <p style="text-align: center; font-family: Arial, Helvetica, sans-serif;">Copyright 2018-2023 by group 12 All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

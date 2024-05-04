@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<ArrayOfProducts xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Products>
+    <Id>6</Id>
+    <Gia>9300000 </Gia>
+    <Tensp>Điều hoà Daikin</Tensp>
+    <Url_img>img/Dieuhoafunki.jpg</Url_img>
+    <Title>Điều hòa Daikin là một thương hiệu hàng đầu với công nghệ tiên tiến và hiệu suất cao.</Title>
+    <Content>
+        <![CDATA[
+        <ul>
+            <li>
+                <h2>Lịch sử và uy tín</h2>
+                <p>Daikin là một công ty Nhật Bản, được thành lập vào năm 1924, và từ đó đã trở thành một trong những nhà sản xuất hàng đầu trong ngành công nghiệp điều hòa không khí và hệ thống HVAC (Hệ thống thông gió, điều hòa và sưởi ấm). Với hơn 90 năm kinh nghiệm, Daikin đã xây dựng được uy tín vững chắc trên toàn cầu.</p>
+            </li>
+            <li>
+                <h2>Công nghệ tiên tiến</h2>
+                <p>Daikin luôn đầu tư mạnh mẽ vào nghiên cứu và phát triển để đem đến các sản phẩm với công nghệ tiên tiến nhất. Các tính năng như Inverter Technology, môi chất làm lạnh không gây hại cho môi trường, và các hệ thống điều khiển thông minh là những điểm mạnh của các sản phẩm của họ.</p>
+            </li>
+            <li>
+                <h2>Hiệu suất cao và tiết kiệm năng lượng</h2>
+                <p>Điều hòa Daikin được thiết kế để cung cấp hiệu suất cao và tiết kiệm năng lượng. Công nghệ Inverter cho phép điều hòa điều chỉnh công suất hoạt động một cách linh hoạt, tối ưu hóa hiệu suất và tiết kiệm điện năng.</p>
+            </li>
+            <li>
+                <h2>Sự đa dạng và linh hoạt</h2>
+                <p>Daikin cung cấp một loạt các sản phẩm và dịch vụ, từ điều hòa cho gia đình đến các giải pháp HVAC cho doanh nghiệp và công nghiệp. Tùy thuộc vào nhu cầu và quy mô, khách hàng có thể lựa chọn từ các loại máy điều hòa cửa sổ, máy điều hòa dàn nén, đến hệ thống VRV (Variable Refrigerant Volume) cho các tòa nhà lớn.</p>
+            </li>
+            <li>
+                <h2>Cam kết về chất lượng và dịch vụ</h2>
+                <p>Daikin cam kết mang đến sản phẩm chất lượng cao và dịch vụ hỗ trợ khách hàng xuất sắc. Họ cung cấp bảo hành rộng rãi và các dịch vụ bảo trì để đảm bảo hoạt động ổn định và hiệu quả của các sản phẩm của họ.</p>
+            </li>
+        </ul>
+        <p>Nhờ vào những điểm mạnh này, điều hòa Daikin đã trở thành một lựa chọn phổ biến và đáng tin cậy cho hàng triệu người dùng trên khắp thế giới.</p>
+        ]]>
+    </Content>
+</Products>
+
+  <Products>
+    <Id>5</Id>
+    <Gia>38990000 </Gia>
+    <Tensp>Macbook Pro M3</Tensp>
+    <Url_img>img/Macbook.png</Url_img>
+    <Title>Tìm hiểu MacBook Pro M3 Pro/M3 Max có gì đặc biệt?</Title>
+    <Content>
+        <![CDATA[
+        <ul>
+            <li>
+                <h2>Đánh giá MacBook Pro M3 Pro 14/16 inch</h2>
+                <p>
+                    Giống như tên gọi, MacBook Pro mới sử dụng chip M3 Pro với hiệu suất siêu khủng, nâng cấp vượt trội so với dòng MacBook chạy Intel. Con chip M3 Pro sở hữu CPU 12 nhân với tốc độ xử lý nhanh hơn gấp 20% so với MacBook Pro M1 Pro. Không những thế, con chip này còn được trang bị GPU 18 nhân với khả năng hoạt động nhanh hơn 40% so với chip M1 Pro. Nhờ được sở hữu M3 Pro, MacBook Pro sẽ có khả năng làm việc ổn định và siêu tiết kiệm năng lượng.
+                </p>
+                <p>
+                    ...
+                </p>
+            </li>
+            <li>
+                <h2>Đánh giá MacBook Pro M3 Max 14/16 inch</h2>
+                <p>
+                    Theo chia sẻ, hai mẫu MacBook sử dụng chip M3 Pro và M3 Max sẽ được cung cấp hai phiên bản màu gồm Silver (Bạc) và Space Black (Đen Không Gian). Trong đó, Space Black là màu sắc mới trong năm nay được Apple công bố trên máy tính. Đây được xem là một gam màu bí ẩn mang lại cảm giác quyến rũ, sang trọng và cuốn hút.
+                </p>
+                <p>
+                    ...
+                </p>
+            </li>
+        </ul>
+        <h2>Giá bán MacBook Pro M3 Pro/M3 Max</h2>
+        <p>
+            Hiện tại, giá bán của MacBook Pro M3 Pro và MacBook Pro M3 Max đã được công bố. Theo đó, MacBook Pro M3 Pro 14 inch được bán với mức giá khởi điểm là 1999 USD (khoảng 49.118.428 VNĐ). Còn về bản 16 inch được công bố với giá khởi điểm 2499 USD (khoảng 61.404.178 VNĐ).
+        </p>
+        <p>
+            ...
+        </p>
+        <p>
+            MacBook Pro M3 Pro/M3 Max có gì đặc biệt? Qua bài viết trên chắc hẳn cũng đã giúp các bạn giải đáp được thắc mắc này. Nếu bạn là một người đam mê các sản phẩm của Apple cũng như muốn tìm một sản phẩm để hỗ trợ công việc thiết kế đồ họa, chỉnh sửa video,... thì MacBook Pro M3 Pro và M3 Max chính là sản phẩm bạn đang cần. Và cũng đừng quyên truy cập vào danh mục Kinh nghiệm mua sắm của Siêu thị Điện Máy Nội Thất Chợ Lớn để tìm hiểu thêm những thông tin, mẹo vặt thú vị về các sản phẩm của Apple như iPhone chính hãng hay iPad, Macbook,...
+        </p>
+        ]]>
+    </Content>
+</Products>
+
+  <Products>
+    <Id>4</Id>
+    <Gia>32500000</Gia>
+    <Tensp>Iphone 15 ProMax </Tensp>
+    <Url_img>img/iphone15prm.jpg</Url_img>
+    <Title>iPhone 15 Pro Max ra mắt, có gì mới, giá bao nhiêu, tính năng nổi bật?</Title>
+    <Content><![CDATA[
+        <ul>
+            <li>
+                <h2>iPhone 15 Pro Max ra mắt khi nào? Giá bao nhiêu?</h2>
+                <p>Vào 0h ngày 13/09/2023, Apple đã cho ra mắt iPhone 15 Pro Max thuộc dòng iPhone 15 Series trong sự kiện "Wonderlust" cùng Apple Watch Series 9 và Apple Watch Ultra 2. Đây là phiên bản iPhone cao cấp nhất của iPhone 15 Series với nhiều những cải tiến vượt bật cả về thiết kế và hiệu năng.</p>
+            </li>
+            <li>
+                <h2>iPhone 15 Pro Max có gì mới?</h2>
+                <p>
+                    <h3>Bảng thông số kỹ thuật iPhone 15 Pro Max</h3>
+                    <table border="1">
+                        <tr>
+                            <th>Tiêu chí</th>
+                            <th>iPhone 15 Pro Max</th>
+                        </tr>
+                        <tr>
+                            <td>Pin</td>
+                            <td>4.422mAh</td>
+                        </tr>
+                        <tr>
+                            <td>Sạc nhanh 50% trong 30 phút</td>
+                            <td>✓</td>
+                        </tr>
+                        <tr>
+                            <td>Màu</td>
+                            <td>Titan trắng, Titan đen, Titan xanh và Titan tự nhiên</td>
+                        </tr>
+                        <tr>
+                            <td>Camera trước</td>
+                            <td>12MP</td>
+                        </tr>
+                        <tr>
+                            <td>Camera sau</td>
+                            <td>48MP + 12MP + 12MP</td>
+                        </tr>
+                        <tr>
+                            <td>Chống nước</td>
+                            <td>IP68</td>
+                        </tr>
+                        <tr>
+                            <td>Hệ điều hành</td>
+                            <td>iOS17</td>
+                        </tr>
+                        <tr>
+                            <td>Con chip</td>
+                            <td>Apple A17 Pro</td>
+                        </tr>
+                        <tr>
+                            <td>Cổng sạc</td>
+                            <td>USB-C</td>
+                        </tr>
+                        <tr>
+                            <td>Kích thước màn hình</td>
+                            <td>6.7 inch</td>
+                        </tr>
+                        <tr>
+                            <td>RAM</td>
+                            <td>8GB</td>
+                        </tr>
+                    </table>
+                </p>
+                <p>
+                    <h3>Thiết kế mới với viền Titanium</h3>
+                    <p>iPhone 15 Pro Max sở hữu khung viền Titanium thay vì khung viền thép như iPhone 14 Series. Thiết kế nổi bật với viền làm bằng Titanium cạnh vuông được vát tròn, sử dụng Grade 5 Titanium - một loại vật liệu nhẹ và bền có khả năng giảm trầy xước đáng kể.</p>
+                    <p>Ngoài ra, khung viền Titanium cũng mang đến cái nhìn bóng loáng, sang trọng và cao cấp hơn phiên bản thép. Hơn hết, nó còn tối ưu trọng lượng sản phẩm, giúp chiếc iPhone trở nên nhẹ hơn, thoải mái hơn khi cầm nắm.</p>
+                </p>
+                <p>
+                    <h3>Camera tiềm vọng lên đến 5x</h3>
+                    <p>iPhone 15 Pro Max sở hữu ống kính tiềm vọng 5x thay vì 3x như các thế hệ tiền nhiệm. Được trang bị camera 12MP Zoom 5X Telephoto với chống rung OIS và trục 3D, cùng với camera 12MP UltraWide để chụp ảnh Macro.</p>
+                    <p>Nâng cấp này cho phép iPhone 15 Pro Max tăng gấp đôi khả năng thu phóng quang học của thiết bị, nhờ đó, người dùng có thể chụp những vật ở khoảng cách xa hơn mà vẫn sắc nét. Đặc biệt, chỉ có ở phiên bản iPhone 15 Pro Max mới được nâng cấp ống kính camera tiềm vọng.</p>
+                </p>
+                <p>
+                    <h3>Camera chính lên đến 48MP cùng cảm biến LiDAR</h3>
+                    <p>Hệ thống camera của iPhone 15 Pro Max cũng đa dạng và mạnh mẽ. Bao gồm 3 ống kính, trong đó, camera chính sở hữu cảm biến quad-pixel tận dụng tối đa 48MP và khẩu độ f/1.78 ProRaw, khả năng chụp ảnh thiếu sáng cải tiến gấp đôi nhờ Photonic Engine, và cung cấp chất lượng màu sắc chân thực với Smart HDR. iPhone 15 Pro Max sở hữu camera chính có độ phân giải đạt mức 48MP.</p>
+                    <p>iPhone 15 Pro Max đồng thời cũng được nâng cấp cảm biến LiDAR, một công nghệ quét không gian 3D cho phép, giúp xác định đối tượng và khoảng cách từ đối tượng đến ống kính, từ đó hỗ trợ khả năng lấy nét tự động của camera. Việc nâng cấp này giúp tăng độ phân giải và độ chính xác trong quá trình chụp ảnh.</p>
+</p>
+<p>
+<h3>Màn hình tràn viền mỏng nhất thế giới</h3>
+<p>Màn hình của iPhone 15 Pro Max có kích thước lớn 6.7 inch và đặc biệt với tính năng ProMotion 120Hz, mang đến trải nghiệm mượt mà và đáng kinh ngạc. Điều này giúp mọi thao tác trên màn hình diễn ra nhanh chóng và mượt mà.</p>
+<p>Ngoài ra, tính năng Always On Display và chế độ Standby Mode giúp tiết kiệm pin và tạo ra một trải nghiệm giống như đồng hồ đeo tay thông thường, cho phép bạn dễ dàng xem thông tin quan trọng mà không cần bật màn hình hoàn toàn.</p>
+</p>
+<p>
+<h3>Chip A17 Pro 3nm</h3>
+<p>iPhone 15 Pro Max được trang bị chip A17 Pro với công nghệ 3nm, đây là sự tiến bộ đáng kể trong hiệu suất của thiết bị. Với việc sử dụng chip 3nm, phiên bản này là một trong những sản phẩm iPhone đầu tiên sử dụng công nghệ này và là một bước đột phá không chỉ về sức mạnh mà còn về tiết kiệm pin. So với chip A16 Bionic, chip này đã giúp iPhone 15 Pro Max tiết kiệm pin lên đến 20%. Điều này chứng tỏ Apple đã tập trung vào việc cải thiện hiệu năng và hiệu suất.</p>
+<p>iPhone 15 Pro Max không chỉ đi kèm với những cải tiến về hiệu suất và chất lượng hình ảnh mà còn hỗ trợ mạng Wifi 6E, điều này đánh dấu sự nâng cấp trong khả năng kết nối internet. Với Wifi 6E, bạn có thể trải nghiệm tốc độ truy cập internet nhanh hơn và ổn định hơn bao giờ hết.</p>
+</p>
+<p>
+<h3>Sạc nhanh với cổng USB-C</h3>
+<p>Với phiên bản iPhone 15 Pro Max cũng như những thiết bị khác cùng Series, Apple sẽ sử dụng cổng USB-C mới thay thế cho cổng Lightning truyền thống theo quy định của Liên minh Châu Âu. Người dùng không còn cần phải kết nối với các thiết bị khác thông qua bộ chuyển đổi mà có thể trực tiếp kết nối 2 thiết bị với nhau.</p>
+<p>Với cổng kết nối USB-C, iPhone 15 Pro Max giúp tăng tốc độ truyền tải dữ liệu. Điều này có nghĩa bạn có thể chia sẻ, sao lưu, hoặc truyền dữ liệu nhanh chóng và hiệu quả hơn với các thiết bị khác mà bạn sử dụng, tạo ra sự tiện lợi trong việc quản lý dữ liệu cá nhân và công việc.</p>
+</p>
+</li>
+</ul>
+]]></Content>
+</Products>
+
+  <Products>
+    <Id>3</Id>
+    <Gia>10400000</Gia>
+    <Tensp>Tủ lạnh Samsung</Tensp>
+    <Url_img>img/tulanhSamsung.jpg</Url_img>
+    <Title>Ra mắt mẫu tủ lạnh siêu hiện đại, thiết kế sang trọng</Title>
+    <Content>
+        <![CDATA[
+            <p><strong>Đặc điểm nổi bật</strong></p>
+            <ul>
+                <li>Tủ lạnh Samsung thiết kế tối giản sang trọng, nâng tầm không gian sinh sống.</li>
+                <li>Ngăn đông mềm 4 chế độ Optimal Fresh Zone+ trữ thịt cá, nấu ngay không cần rã đông.</li>
+                <li>Công nghệ Inverter tiết kiệm điện hiệu quả, máy vận hành êm ái và bền bỉ.</li>
+                <li>Công nghệ All-around Cooling thổi hơi dạng vòm khắp tủ, làm lạnh nhanh và đều.</li>
+                <li>Màng lọc Active Fresh khử mùi kháng khuẩn, không khí trong tủ luôn trong lành.</li>
+                <li>Khay lấy nước bên ngoài giúp bạn lấy nước nhanh chóng, không cần mở cửa tủ.</li>
+                <li>Tính năng làm đá tự động, chỉ cần đổ nước đầy bình chứa máy sẽ tự tạo đá viên.</li>
+                <li>Ngăn rau quả lớn, giữ ẩm tối ưu giúp rau quả luôn căng mọng, lâu hỏng.</li>
+                <li>Phù hợp với mọi gian bếp nhờ thiết kế phẳng thời thượng.</li>
+            </ul>
+            <p>Tủ lạnh Samsung Inverter 406 lít RT42CG6584B1SV là dòng tủ lạnh ngăn đông trên sở hữu thiết kế phẳng thời thượng, cùng tông màu Đen sang trọng. Đây cũng là gam màu thanh lịch, dễ dàng hòa hợp với mọi loại nội thất, giúp nâng tầm không gian bếp của bạn thêm phần đẳng cấp khi đặt vào. Tủ có dung tích sử dụng 406 lít, đáp ứng nhu cầu bảo quản thực phẩm cho gia đình có khoảng 4 - 5 thành viên.</p>
+            <p>Hơn nữa, tủ ứng dụng hàng loạt công nghệ bảo quản thực phẩm tiên tiến bậc nhất hiện nay như: Công nghệ Digital Inverter tiết kiệm điện, công nghệ All-around Cooling làm lạnh nhanh và điều, ngăn đông mềm linh hoạt 4 chế độ Optimal Fresh+ trữ thịt cá đông mềm nguyên vẹn dinh dưỡng, trang bị ngăn lấy nước ngoài tiện lợi,... và hơn thế nữa. Đây hứa hẹn sẽ là trợ thủ đắc lực của người nội trợ để các gia đình có được những bữa ăn ngon với thực phẩm an toàn và giàu dưỡng chất.</p>
+        ]]>
+    </Content>
+</Products>
+
+<Products>
+    <Id>2</Id>
+    <Gia>7400000</Gia>
+    <Tensp>Tivi Sony BRAVIA 2019</Tensp>
+    <Url_img>img/TiviSony.jpg</Url_img>
+    <Title>Chính thức ra mắt Tivi Sony BRAVIA 2019 thế hệ mới nhất</Title>
+    <Content>
+        <![CDATA[
+            <p><strong>Chính thức ra mắt Tivi Sony BRAVIA 2019 thế hệ mới nhất</strong></p>
+            <p>Sáng 22/4/2019, tại Hà Nội – Sony Việt Nam chính thức giới thiệu thế hệ TV BRAVIA 2019 sở hữu hàng loạt công nghệ độc quyền mới nhất của Sony, mang đến chất lượng hình ảnh và âm thanh xuất sắc, cùng các sản phẩm công nghệ đỉnh cao mới như máy ảnh Alpha 6400, Cyber-shot RX0 II, loa thanh HT-X8500, Glass Sound Speaker (loa LED thủy tinh 360 độ) LSPX-S1/S2, loa không dây và tai nghe.</p>
+            <p>Trong đó, tâm điểm chính là TV Sony BRAVIA OLED A9G MASTER Series, sản phẩm thiết lập chuẩn mực đỉnh cao mới đối với trải nghiệm hình ảnh và âm thanh của rạp chiếu phim tại gia thông qua việc tái hiện hình ảnh chuẩn xác theo ý đồ của các nhà làm phim.</p>
+            <p>Loạt sản phẩm công nghệ ấn tượng 2019 mới ra mắt của Sony tiếp tục mang lại những trải nghiệm đỉnh cao, giúp cuộc sống của người dùng trở nên thú vị và nhiều màu sắc hơn. Dù là sản phẩm nghe nhìn, âm thanh hay nhiếp ảnh, Sony không chỉ thoả mãn nhu cầu người dùng hiện tại mà còn đáp ứng được xu hướng trải nghiệm công nghệ tương lai.</p>
+            <p><strong>MASTER Series là tên gọi được Sony dành riêng cho những dòng TV tốt nhất</strong></p>
+            <p>MASTER Series là tên gọi được Sony dành riêng cho những dòng TV tốt nhất, đem đến trải nghiệm cao cấp toàn diện từ chất lượng hình ảnh, màu sắc, độ tương phản và độ rõ nét tiệm cận với những màn hình tham chiếu chuyên dụng. Chất lượng hình ảnh của BRAVIA OLED A9G MASTER Series kết hợp tinh tế khả năng thể hiện độ tương phản tuyệt đối với góc nhìn rộng của tấm nền OLED và bộ xử lý hình ảnh X1 Ultimate tối tân của Sony.</p>
+            <p><strong>Acoustic Surface Audio+</strong></p>
+            <p>Công nghệ âm thanh Acoustic Surface Audio+ biến toàn bộ màn hình thành một hệ thống loa khổng lồ, đồng bộ một cách chính xác vị trí âm thanh và hình ảnh, đem đến trải nghiệm nghe nhìn sống động như ngoài đời thật. OLED A9G còn được trang bị chế độ Netflix Calibrated Mode kết hợp công nghệ Dolby Vision/Dolby Atmos, mang lại trải nghiệm hình ảnh nguyên bản và sống động tại gia với kho phim chất lượng cao của dịch vụ Netflix.</p>
+        ]]>
+    </Content>
+</Products>
+<Products>
+    <Id>1</Id>
+    <Gia>8300000</Gia>
+    <Tensp>Tivi Samsung OLED</Tensp>
+    <Url_img>img/TiviSamSung.jpg</Url_img>
+    <Title>Samsung ra mắt TV OLED 2023 tại Việt Nam: OLED vượt chuẩn từ thương hiệu TV số 1 thế giới</Title>
+    <Content>
+        <![CDATA[
+            <p><strong>Samsung ra mắt TV OLED 2023 tại Việt Nam: OLED vượt chuẩn từ thương hiệu TV số 1 thế giới</strong></p>
+            <p>Công ty Điện Tử Samsung Vina chính thức giới thiệu TV OLED mới tại thị trường Việt Nam với chương trình đặt trước và quà tặng hấp dẫn. Bên cạnh mẫu TV OLED 4K S95B được ra mắt cuối năm ngoái, S95C và S90C là mẫu TV OLED tiếp theo được Samsung ra mắt thị trường Việt Nam với nhiều tính năng đổi mới vượt trội từ công nghệ hiển thị hình ảnh, thiết kế hoàn mỹ và âm thanh chân thực.</p>
+            <p><strong>Định chuẩn mới cho TV OLED</strong></p>
+            <p>TV Samsung OLED 2023 tiếp tục kế thừa công nghệ đỉnh cao từ dòng Neo QLED, được trang bị công nghệ Quantum Dot, tần số quét lên đến 144Hz cùng bộ xử lý Neural Quantum 20 mạng thần kinh để duy trì các điểm mạnh chủ chốt của công nghệ OLED, đồng thời cải thiện các hạn chế về độ sáng và khả năng thể hiện màu sắc của TV OLED thông thường. Từ đó tái hiện chuẩn xác những chi tiết ẩn nhờ sắc đen sâu thẳm hay thể hiện hàng tỷ màu sắc sống động và độ tương phản vượt trội, nâng tầm trải nghiệm người dùng vượt xa những chuẩn mực trước đây của TV OLED. TV Samsung OLED cũng là sản phẩm TV đầu tiên đạt chứng nhận Pantone Validated cho khả năng hiển thị chính xác hơn 2.000 màu Pantone các sắc độ màu da.</p>
+            <p><strong>Thiết kế hoàn hảo</strong></p>
+            <p>Đặc biệt về thiết kế, S95C sở hữu thiết kế Infinity One với viền siêu mỏng, mặt lưng bằng phẳng, cho người dùng đắm chìm vào mọi nội dung hiển thị một cách hoàn hảo và chân thực, đồng thời nâng tầm sang trọng, tinh tế cho không gian sống. Cạnh viền gần như vô hình giúp người dùng hoàn toàn tập trung trải nghiệm nội dung ưa thích mà không bị xao nhãng.</p>
+            <p><strong>Trải nghiệm âm thanh sống động</strong></p>
+            <p>Không chỉ mãn nhãn phần hình ảnh, người dùng còn có thể đắm chìm trong trải nghiệm âm thanh đỉnh cao với hệ thống loa 4.2.2 công suất 70W, công nghệ Object Tracking Sound giúp âm thanh chuyển động theo hình ảnh kết hợp cùng Dolby Atmos với loa ngoài vật lý đem đến trải nghiệm sống động hơn bao giờ hết.</p>
+            <p><strong>Tính năng thông minh</strong></p>
+            <p>Bên cạnh hoàn thiện về công nghệ hình ảnh, thiết kế và âm thanh, TV Samsung OLED 2023 còn sở hữu tất cả các tính năng thông minh và đa nhiệm của Samsung, như Smart Hub hay Multi View trên hệ điều hành Tizen OS. Các sản phẩm OLED của Samsung cũng đánh dấu cột mốc lần đầu tiên trong lịch sử TV OLED, khi đạt được chứng nhận FreeSync Premium Pro của AMD cho những trải nghiệm chơi game OLED đỉnh cao.</p>
+            <p><strong>Kích thước đa dạng</strong></p>
+            <p>TV OLED 2023 của Samsung hiện có kích thước 55, 65 và 77 inch siêu lớn, nhằm có thêm lựa chọn phong phú cho người dùng. TV Samsung OLED 4K S95C sẽ được bán tại Việt Nam với giá bán lẻ đề nghị lần lượt là 54.900.000 đồng, 69.900.000 đồng và 109.900.000 đồng cho kích thước 55, 65 và 77 inch. TV Samsung OLED 4K S90C có giá bán lẻ đề nghị lần lượt là 63.900.000 đồng và 99.900.000 đồng cho kích thước 65 và 77 inch.</p
+            <p><strong>Kích thước đa dạng</strong></p>
+            <p>TV OLED 2023 của Samsung hiện có kích thước 55, 65 và 77 inch siêu lớn, nhằm có thêm lựa chọn phong phú cho người dùng. TV Samsung OLED 4K S95C sẽ được bán tại Việt Nam với giá bán lẻ đề nghị lần lượt là 54.900.000 đồng, 69.900.000 đồng và 109.900.000 đồng cho kích thước 55, 65 và 77 inch. TV Samsung OLED 4K S90C có giá bán lẻ đề nghị lần lượt là 63.900.000 đồng và 99.900.000 đồng cho kích thước 65 và 77 inch.</p>
+        ]]>
+    </Content>
+</Products>
+
+  <Products>
+    <Id>0</Id>
+    <Gia>5200000</Gia>
+    <Tensp>Máy Giặt Casper</Tensp>
+    <Url_img>img/MayGiatCasper.jpg</Url_img>
+    <Title>Giới thiệu về máy giặt bền bỉ suốt 20 năm.</Title>
+    <Content>
+	<![CDATA[
+	<p>Đặc điểm nổi bật</p>
+        <ul>
+            <li>Máy giặt Casper với động cơ BLDC Inverter​ vận hành êm ái, bền bỉ theo thời gian</li>
+            <li>Giặt hơi nước Steam Wash loại bỏ dầu mỡ, tác nhân dị ứng, khử mùi và diệt khuẩn</li>
+            <li>Vệ sinh lồng giặt với nước nóng 90°C loại bỏ hoàn toàn vi khuẩn, nấm mốc tích tụ</li>
+            <li>Lồng giặt dạng tinh thể pha lê với hơn 2000 lỗ phun tăng cường hiệu quả giặt sạch</li>
+            <li>Tính năng tự động cảnh báo đã đến lúc vệ sinh lồng giặt sau 25 lần giặt giũ</li>
+            <li>Tổng lên đến 15 chương trình giặt, đáp ứng đa dạng nhu cầu giặt giũ hàng ngày</li>
+            <li>Máy giặt cửa trước thiết kế sang trọng, nâng tầm không gian sinh sống</li>
+        </ul>
+        <p><strong>Thông số kỹ thuật</strong></p>
+        <ul>
+            <li>Model: WF-9VG1</li>
+            <li>Màu sắc: Ghi đậm</li>
+            <li>Nhà sản xuất: Casper</li>
+            <li>Xuất xứ: Trung Quốc</li>
+            <li>Năm ra mắt: 2023</li>
+            <li>Thời gian bảo hành: 24 Tháng</li>
+            <li>Địa điểm bảo hành: Nguyễn Kim</li>
+            <li>Bảng điều khiển: Tiếng việt/Nút bấm</li>
+            <li>Loại máy giặt: Cửa ngang</li>
+            <li>Khối lượng giặt: 9 Kg</li>
+        </ul>
+        <p>Máy giặt Casper cửa trước thiết kế sang trọng, nhiều tiện ích thông minh. Máy giặt Casper Inverter 9 kg WF-9VG1 là dòng máy giặt cửa trước sang trọng, kết hợp cùng ngôn ngữ thiết kế tối giản, gam màu ghi đậm tinh tế giúp chúng dễ dàng hòa hợp với mọi loại nội thất. Đồng thời hạn chế bám bẩn, dễ dàng vệ sinh giúp vẻ ngoài luôn sạch sẽ, sáng bóng. Máy có khối lượng giặt tối đa 9 kg, thích hợp sử dụng cho gia đình nhỏ có khoảng 2 - 3 thành viên.</p>
+        <p>Không chỉ đẹp bên ngoài, máy giặt này còn tích hợp hàng loạt công nghệ hiện đại như: động cơ BLDC Inverter​ tiết kiệm điện, giặt hơi nước diệt khuẩn Steam Wash, vệ sinh lồng giặt với nước nóng 90°C loại bỏ vi khuẩn và cặn bẩn bám dính, tự động cảnh báo đã đến lúc vệ sinh lồng giặt... Đây hứa hẹn là "trợ thủ" đắc lực, giúp các gia đình nhẹ gánh trong công việc giặt giũ cực nhọc hàng ngày.</p>
+	]]>    
+</Content>
+</Products>
+<Products>
+    <Id>7</Id>
+    <Gia>29990000</Gia>
+    <Tensp>Apple Watch series 8</Tensp>
+	 <Url_img>img/applewatch.png</Url_img>
+	<Title>Apple Watch Series 8 có gì mới? Liệu có là mẫu Apple Watch đáng mua ở thời điểm hiện tại.</Title>
+    <Content>
+        <![CDATA[
+            <p>Apple Watch Series 8 có gì mới?</p>
+            <p>Các tin đồn trước đó đã cho rằng Apple Watch Series 8 sẽ có thiết kế hoàn toàn mới so với các thế hệ Apple Watch trước đó. Tuy nhiên thay vào đó, vào năm 2022, Apple đã lặp lại thiết kế hiện tại với những thay đổi nhỏ nhằm nâng cao trải nghiệm tổng thể. Apple Watch Series 8 có thể dễ dàng bị nhầm với Apple Watch Series 7 với khung máy cong, nút Digital Crown, loa ngoài và màn hình tràn cạnh giống hệt nhau. Vậy Apple Watch Series 8 có gì mới?</p>
+            <p>Apple Watch Series 8 mới cung cấp kích thước màn hình tương tự như người tiền nhiệm của nó. Với kích thước 41mm và 45mm, Series 8 cung cấp tính năng màn hình luôn bật từ các thế hệ trước. Bên cạnh các cảm biến tương tự như năm ngoái, Apple cuối cùng đã giới thiệu cảm biến nhiệt độ cơ thể mới.</p>
+            <p>Apple Watch Series 8 sẽ tận dụng bản cập nhật watchOS 9 mới với mặt đồng hồ mới, ứng dụng Workout được cải tiến và ứng dụng Thuốc mới. Đồng hồ mới này cũng sẽ tập trung vào sức khỏe của phụ nữ và sẽ giúp người dùng theo dõi giấc ngủ của họ bằng ứng dụng Sleep mới. Với hai cảm biến nhiệt độ - một ở dưới cùng và một ở trên màn hình, Apple Watch Series 8 sẽ là nền tảng cho sức khỏe của phụ nữ bằng cách theo dõi chu kỳ rụng trứng.</p>
+            <p>Apple Watch Series 8 cũng sẽ phát hiện tai nạn ô tô, với tính năng Phát hiện va chạm mới. Nó hoạt động giống như Phát hiện té ngã. Khi Apple Watch cho rằng bạn bị tai nạn, đồng hồ sẽ hỏi bạn và sau đó gọi cấp cứu. Nó sử dụng một công nghệ mới với nhiều cảm biến con quay hồi chuyển hơn.</p>
+            <p>Ngoài ra, chúng ta còn có tính năng sạc nhanh và chế độ tiết kiệm năng lượng Low Power Mode, hứa hẹn mang đến thời lượng pin dài hơn so với các thế hệ trước. Apple Watch Series 8 có thời lượng pin 18 giờ cả ngày. Với Chế độ nguồn điện thấp mới, Apple Watch cung cấp thời lượng pin lên đến 36 giờ. Ngoài ra, đối với những chiếc đồng hồ thông minh đầu tiên sẽ cung cấp dịch vụ Chuyển vùng quốc tế. Khác với những năm trước, Watch Series 8 sẽ có hai loại hoàn thiện là nhôm và thép không gỉ. Dưới đây là các màu sắc được tiết lộ:</p>
+            <p><strong>Nhôm:</strong> nửa đêm, ánh sao, bạc và đỏ</p>
+            <p><strong>Thép không gỉ:</strong> bạc, vàng và than chì</p>
+            <p><strong>Có nên mua Apple Watch Series 8?</strong></p>
+            <p>So với Apple Watch SE 2022 và Apple Watch Ultra, rõ ràng là Apple Watch Series 8 được nhắm tới một phân khúc khách hàng quen thuộc và phổ biến hơn, vì vậy, nó cũng được nhiều người dùng yêu thích hơn so với hai người anh em còn lại của mình. Nếu có một thứ mà hầu hết mọi người đánh giá cao trên đồng hồ thông minh, đó là màn hình lớn hơn. Mặc dù vỏ của Apple Watch Series 8 chỉ lớn hơn Apple Watch SE 1mm, nhưng tỷ lệ màn hình trên thân máy lớn hơn của nó mang lại diện tích màn hình nhiều hơn gần 20% so với người anh em giá rẻ của mình.</p>
+            <p>Ngoài màn hình lớn hơn, Apple Watch Series 8 cũng có màn hình luôn bật. Điều đó có ngha là bạn không còn phải chạm vào đồng hồ thông minh hoặc vuốt cổ tay bất cứ khi nào bạn muốn kiểm tra thời gian hoặc nếu bạn đã bỏ lỡ bất kỳ thông báo nào. Màn hình luôn bật sẽ cho phép bạn sử dụng Series 8 như một chiếc đồng hồ thực tế, nơi bạn có thể kiểm tra thời gian trong nháy mắt, ngay cả khi nó trên bàn làm việc của bạn.</p>
+		 <p>Apple Watch Series 8 cũng có màn hình luôn bật. Điều đó có nghĩa là bạn không còn phải chạm vào đồng hồ thông minh hoặc vuốt cổ tay bất cứ khi nào bạn muốn kiểm tra thời gian hoặc nếu bạn đã bỏ lỡ bất kỳ thông báo nào. Màn hình luôn bật sẽ cho phép bạn sử dụng Series 8 như một chiếc đồng hồ thực tế, nơi bạn có thể kiểm tra thời gian trong nháy mắt, ngay cả khi nó trên bàn làm việc của bạn.</p>
+            <p>Với ứng dụng Oxy trong máu, bạn có thể theo dõi độ bão hòa oxy trong máu (SpO2) và mức sử dụng thể tích oxy tối đa của cơ thể khi tập thể dục (VO2 tối đa). Vì vậy, nếu bạn muốn cập nhật dữ liệu sức khỏe của mình, Apple Watch Series 8 có thể là một người bạn đồng hành tuyệt vời.</p>
+            <p>Nếu bạn là người luôn đeo đồng hồ thông minh của mình, thì bạn sẽ đánh giá cao khả năng sạc nhanh của Series 8. Với Apple Watch Series 8, bạn có thể sạc lại từ 0 đến 80% trong 45 phút và 100% trong khoảng 75 phút. Tốc độ này nhanh gấp đôi so với thời gian sạc của Apple Watch SE, mất 90 phút để đạt mức 80% và 150 phút cho một lần sạc đầy. Hãy nghĩ về thời gian bạn tiết kiệm được, và bạn sẽ nhanh chóng nhận ra rằng cái giá phải trả thêm mà bạn phải trả có lẽ là xứng đáng.</p>
+            <p>Tóm lại, nếu bạn đang mua một chiếc Apple Watch để giúp theo dõi sức khỏe của mình, thì bạn nên đầu tư vào Series 8. Các cảm biến bổ sung và các tính năng theo dõi sức khỏe trong Apple Watch Series sẽ giúp bạn biết rõ hơn về tim mạch, chu kỳ kinh nguyệt và tình trạng sức khỏe nói chung. Điều này rất quan trọng, đặc biệt nếu bạn có một tình trạng cơ bản.</p>
+            <p>Và nếu bạn là một chuyên gia bận rộn luôn di chuyển, bạn sẽ đánh giá cao màn hình luôn bật, màn hình lớn hơn và khả năng sạc nhanh của nó. Vì vậy, có lẽ là một khoản đầu tư tốt khi mua Apple Watch Series 8.</p>
+            <p>Trên đây là những thông tin về Apple Watch Series 8 có gì mới, liệu có phải là một thiết bị đáng mua, lựa chọn là ở bạn, chúc bạn có những quyết định đúng đắn nhất.</p>
+        ]]>
+    </Content>
+  </Products>
+</ArrayOfProducts>

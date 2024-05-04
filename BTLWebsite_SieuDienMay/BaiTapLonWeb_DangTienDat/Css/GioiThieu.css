@@ -1,0 +1,33 @@
+﻿.content-gioithieu {
+    margin: 15px 15px 0 15px;
+    background-color: white;
+    height: auto;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.text_gioithieu {
+    width: 100%;
+    margin: 20px;
+}
+
+.content-gioithieu img {
+    padding: 25px;
+    width: 50%;
+}
+
+.content-gioithieu2 {
+    margin: 0px 15px 25px 15px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+
+    .content-gioithieu2 h5 {
+        padding: 15px;
+    }
+
+    .content-gioithieu2 img {
+        width: 100%;
+    }

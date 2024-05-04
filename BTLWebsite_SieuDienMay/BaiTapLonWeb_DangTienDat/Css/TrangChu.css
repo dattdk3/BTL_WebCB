@@ -1,0 +1,63 @@
+﻿.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#T_moi {
+    margin: 10px auto;
+    background-color: white;
+    padding: 20px;
+}
+
+#SpMoi {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #f0483e;
+}
+
+#T_moi ul.list_moi {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 100%;
+}
+
+    #T_moi ul.list_moi li img {
+        width: 100%;
+        margin-right: 45px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        height: 180px;
+    }
+
+#T_moi .list_moi li {
+    width: 23%;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    transition: 0.4s;
+}
+
+    #T_moi .list_moi li:hover {
+        border: 3px solid #f0483e;
+        border-radius: 6px;
+        color:green;
+    }
+
+.mua {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: aquamarine;
+    transition: 0.4s;
+}
+
+    .mua:hover {
+        background-color: red;
+        color: #f1f1f1;
+    }

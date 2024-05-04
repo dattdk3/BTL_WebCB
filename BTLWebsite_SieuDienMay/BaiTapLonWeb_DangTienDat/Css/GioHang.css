@@ -1,0 +1,138 @@
+﻿﻿.tong {
+    width: 90%;
+    background-color: white;
+}
+
+.clear {
+    clear: both;
+}
+
+.nav {
+    margin-top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.nav-link-a {
+    padding-top: 20px;
+    color: darkgrey;
+    font-size: 20px;
+}
+
+.well-small-text {
+    text-align: center;
+}
+
+.nav-link-a > a {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+.table-giohang {
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.well-small {
+    padding-left: 50px;
+}
+
+.pull-right {
+    margin-top: 20px;
+}
+
+.hang1 {
+    background-color: aqua;
+    color: red;
+}
+
+th {
+    width: 18%;
+}
+
+.alignR {
+    text-align: right;
+}
+
+.well-quaytrang {
+    margin-top: 40px;
+}
+
+.well-quaytrang-btn {
+    border: 2px solid red;
+    background-color: #fff;
+}
+
+.well-quaytrang-a {
+    display: block;
+    color: red;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.well-thanhtoan {
+    margin-top: 30px;
+    width: 100%;
+    height: 300px;
+}
+
+.thongtinkhachhang {
+    width: 60%;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+.thongtin {
+    float: left;
+    width: 60%;
+    padding: 20px;
+}
+
+.thongtin-text {
+    margin-top: 20px;
+}
+
+.donhang {
+    margin-top: 20px;
+    float: left;
+    width: 30%;
+    border: 1px solid red;
+    padding: 20px;
+    border-radius: 4px;
+    width: 400px;
+}
+
+.thanhtoan {
+    width: 100%;
+}
+
+.thanhtoan-tenSp {
+    width: 60%;
+    float: left;
+}
+
+.Tongtien {
+    width: 40%;
+    float: right;
+}
+
+.donhang-pttt {
+    float: left;
+    width: 10%;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tttt {
+    font-size: 14px;
+}
+
+.khoangcach {
+    margin: 10px;
+}
